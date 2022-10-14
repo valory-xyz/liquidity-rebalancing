@@ -1,19 +1,18 @@
 # Security Policy
 
-This document outlines security procedures and general policies for the `open-autonomy` project.
+This document outlines security procedures and general policies for the `liquidity-rebalancing` project.
 
 ## Supported Versions
 
-The following table shows which versions of `open-autonomy` are currently being supported with security updates.
+The following table shows which versions of `liquidity-rebalancing` are currently being supported with security updates.
 
-| Version   | Supported          |
-| --------- | ------------------ |
-| `0.3.2`   | :white_check_mark: |
-| `< 0.3.2` | :x:                |
+| Version | Supported          |
+|---------| ------------------ |
+| N/A     | :x:                |
 
 ## Reporting a Vulnerability
 
-The `open-autonomy` team and community take all security bugs in `open-autonomy` seriously. Thank you for improving the security of `open-autonomy`. We appreciate your efforts and responsible disclosure and will make every effort to acknowledge your contributions.
+The `liquidity-rebalancing` team and community take all security bugs in `liquidity-rebalancing` seriously. Thank you for improving the security of `liquidity-rebalancing`. We appreciate your efforts and responsible disclosure and will make every effort to acknowledge your contributions.
 
 Report security bugs by emailing `info@valory.xyz`.
 
